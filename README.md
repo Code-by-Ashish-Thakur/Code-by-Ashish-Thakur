@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Akash Chaudhary.<br>👀 I’m interested in Competitive coding..<br>🌱 I’m currently learning Javascript.<br>📫 How to reach me aakashchaudhary
+👋 Hi, I’m Ashish Thakur.<br>👀 I’m interested in Competitive Coding..<br>🌱 I’m currently learning ReactJs and NodeJs.<br>📫 How to reach me Ashish Thakur
 
 
 ## 🌐 Socials:
