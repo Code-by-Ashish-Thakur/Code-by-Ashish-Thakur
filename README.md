@@ -2,6 +2,9 @@
 👋 Hi, I’m Ashish Thakur.<br>👀 I’m interested in Competitive Coding..<br>🌱 I’m currently learning ReactJs and NodeJs.<br>📫 How to reach me 1ashishthakur2002@gmail.com
 
 
+
+![](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100017441926109) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__ashish___thakur/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-thakur-75322a201/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/AshishT55253591?t=PX1vdPkhE3ykyXmmmjInsg&s=09]) 
 
