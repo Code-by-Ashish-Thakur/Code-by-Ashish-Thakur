@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ashish Thakur.<br>👀 I’m interested in Competitive Coding..<br>🌱I have experience in React.js and Node.js<br>🌱 I’m currently learning java and Spring Boot.<br> 📫 How to reach me 1ashishchauhan2002@gmail.com
+👋 Hi, I’m Ashish Thakur.<br>👀 I’m interested in Competitive Coding..<br>🌱I have experience in React.js and Node.js<br>🌱 I’m currently learning AI and ML.<br> 📫 How to reach me 1ashishchauhan2002@gmail.com
 
 
 
